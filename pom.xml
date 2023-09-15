@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.232.70.159:8181/mylandmarktech/repository/norbert-release/</url>
+	      <url>http://34.232.70.159:8181/mylandmarktech/repository/norbert-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
