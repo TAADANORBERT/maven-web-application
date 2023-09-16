@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.237.104.142:8181/mylandmarktech/repository/raoul-releases/</url>
+	      <url>http://54.237.104.142:8181/mylandmarktech/repository/raul-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.237.104.142:8181/mylandmarktech/repository/raoul-snapshots/</url>
+	      <url>http://54.237.104.142:8181/mylandmarktech/repository/raul-snpashots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
