@@ -97,13 +97,11 @@
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://54.89.117.45:8181/repository/tesla-releases/</url>
 	    </repository>
-	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.89.117.45:8181/repository/tesla-snapshots/</url>
 	    </snapshotRepository>
-	
 	</distributionManagement>
 	
 	<build>
