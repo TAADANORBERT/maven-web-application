@@ -103,7 +103,7 @@
               <name>Nexus Snapshot Repository</name>
               <url>http://100.25.222.177:8181/repository/tesla-snapshots/</url>
             </snapshotRepository>
-       </distributionManagement>
+        </distributionManagement>
 	
 	<build>
 		<finalName>tesla</finalName>
